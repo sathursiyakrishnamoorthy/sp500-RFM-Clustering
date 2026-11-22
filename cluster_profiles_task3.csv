@@ -1,0 +1,19 @@
+Cluster,Solution,Shares,Mean weekly return (%),Mean beta,Mean Recency (days),Mean Frequency,Median Monetary ($bn),Largest sector,Largest sector (%)
+0,Ward risk-return (k=6),56,0.418,0.577,18.804,2.857,17.396,Financials,28.571
+1,Ward risk-return (k=6),66,0.088,0.439,26.197,2.894,17.701,Consumer Staples,33.333
+2,Ward risk-return (k=6),35,0.876,1.367,26.343,3.257,25.227,Information Technology,37.143
+3,Ward risk-return (k=6),129,0.075,0.959,17.977,3.078,12.891,Industrials,21.705
+4,Ward risk-return (k=6),47,0.196,1.62,23.128,3.17,28.918,Information Technology,48.936
+5,Ward risk-return (k=6),149,0.391,1.051,18.168,2.866,17.699,Financials,23.49
+0,K-Means risk-return (k=5),129,0.242,0.523,22.062,2.907,15.353,Utilities,19.38
+1,K-Means risk-return (k=5),37,0.862,1.364,26.27,3.351,24.647,Information Technology,37.838
+2,K-Means risk-return (k=5),148,0.397,1.022,17.588,2.845,17.815,Financials,23.649
+3,K-Means risk-return (k=5),57,0.201,1.58,23.351,3.14,28.478,Information Technology,47.368
+4,K-Means risk-return (k=5),111,0.033,0.958,18.604,3.054,13.079,Industrials,20.721
+0,Ward RFM (k=3),81,0.276,0.975,58.58,2.086,17.741,Information Technology,22.222
+1,Ward RFM (k=3),154,0.338,1.01,13.682,2.864,39.695,Information Technology,20.13
+2,Ward RFM (k=3),247,0.253,0.936,12.004,3.352,11.202,Industrials,20.243
+0,K-Means RFM (k=4),210,0.275,0.939,13.286,2.362,13.336,Industrials,20.476
+1,K-Means RFM (k=4),61,0.3,0.975,66.016,1.672,21.242,Information Technology,21.311
+2,K-Means RFM (k=4),121,0.256,0.957,13.702,4.537,12.866,Industrials,19.008
+3,K-Means RFM (k=4),90,0.332,1.034,14.911,3.233,61.439,Information Technology,27.778
