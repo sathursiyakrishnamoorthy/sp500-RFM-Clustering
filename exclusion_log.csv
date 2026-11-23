@@ -1,0 +1,22 @@
+Ticker,Reason
+APP,Incomplete history: 935/1005 sessions
+BE,Extreme daily move detected: 1 day(s) with |return| > 40% (max: 59.2%). Possible unadjusted split or data error.
+CVNA,Extreme daily move detected: 5 day(s) with |return| > 40% (max: 56.0%). Possible unadjusted split or data error.
+COIN,Incomplete history: 936/1005 sessions
+CEG,Incomplete history: 742/1005 sessions
+DXCM,Extreme daily move detected: 1 day(s) with |return| > 40% (max: 40.7%). Possible unadjusted split or data error.
+EXE,Incomplete history: 979/1005 sessions
+FDXF,Incomplete history: 0/1005 sessions
+FERG,Excess zero-volume days: 27 (2.7%)
+GEHC,Incomplete history: 513/1005 sessions
+GEV,Incomplete history: 193/1005 sessions
+GL,Extreme daily move detected: 1 day(s) with |return| > 40% (max: 53.1%). Possible unadjusted split or data error.
+HONA,Incomplete history: 0/1005 sessions
+Q,Incomplete history: 0/1005 sessions
+RDDT,Incomplete history: 197/1005 sessions
+HOOD,Incomplete history: 862/1005 sessions
+SNDK,Incomplete history: 0/1005 sessions
+SW,Excess zero-volume days: 424 (42.2%)
+SOLV,Incomplete history: 194/1005 sessions
+VLTO,Incomplete history: 313/1005 sessions
+VYLR,Incomplete history: 0/1005 sessions
